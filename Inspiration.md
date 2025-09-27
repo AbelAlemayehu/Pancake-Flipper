@@ -1,3 +1,0 @@
-# Inspiration for My Game Project
-
-My inspiration for a game project comes from the *Papa’s Pancakeria* game I used to play on coolmathforkids.com growing up. It was interesting how a repetitive task like flipping pancakes could become engaging through timing and visual cues. There is something satisfying about watching the pancakes change color, waiting for the correct moment, and landing a good flip. Instead of having the entire *Papa’s Pancakeria* functionality (taking orders, cooking, plating, etc) I wanted to scale it down into a single station minigame where the user flips packages which are timed and points are based on the precision of the flip.
