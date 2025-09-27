@@ -1,0 +1,3 @@
+# Brainstorm for My Game Project
+
+I want to build a pancake flipper that will be a simple skill based timing game where the user tries to flip pancakes at the perfect moment for some points. Each pancake will cook on one side (like in *Papa’s Pancakeria*), and a visual indicator will show when it's ready to flip. Flipping too early or too late will result in undercooked or burnt pancakes, while flipping perfectly will reward the user with points. Throughout the game, pancakes will appear faster or cook at different speeds. I think this is an approachable intro project which takes the most fun aspect of *Papa’s Pancakeria* without adding the complex parts like ordering and plating.
