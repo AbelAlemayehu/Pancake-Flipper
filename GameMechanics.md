@@ -1,0 +1,3 @@
+### How to Play
+
+Your goal is to cook and serve pancakes as quickly and accurately as possible. Drag the ladle over the batter bowl to scoop batter, then drag it to the griddle to pour. Once poured, the pancake begins cooking and will move through three stages: raw, golden, and burnt. The goal is to catch it at the golden stage. Press **Spacebar** to flip the pancake; flipping too early or too late affects quality. When you’re satisfied with its cook, drag the pancake onto the serving plate. Only pancakes removed at the proper time will count as well cooked. Perfect pancakes are worth the most, while undercooked or burnt ones reduce performance. Repeat the loop: scoop, cook, flip, serve to keep the kitchen moving.
